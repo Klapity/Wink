@@ -1,0 +1,7 @@
+rich
+sys
+colorama
+keyboard
+win32gui
+win32con
+readline
